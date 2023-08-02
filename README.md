@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-animation-colab/blob/main/controlnet_animation_colab.ipynb) | DWPose_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-animation-colab/blob/main/controlnet_animation_colab.ipynb) | controlnet_animation_colab
 
 ## Main Repo
 https://github.com/lllyasviel/ControlNet <br />
